@@ -1,0 +1,7 @@
+node js
+=======
+Anything which Javascript can, will eventually be done in javascript. But that does't mean we do everthing in javascript. That will be a really bad world.
+It has its advantages, still a lot of untapped opportunites where javascript can perform exceptionally well, but a lot of places where it mustn't be.
+What JS is extremely efficient at doing is "communication"
+this low latency highly frequent communication
+"middle-end"
