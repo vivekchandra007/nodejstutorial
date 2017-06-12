@@ -5,3 +5,4 @@ It has its advantages, still a lot of untapped opportunites where javascript can
 What JS is extremely efficient at doing is "communication"
 this low latency highly frequent communication
 "middle-end"
+process.stdout.write('Hello World!');
