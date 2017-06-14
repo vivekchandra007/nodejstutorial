@@ -1,0 +1,29 @@
+{
+  "name": "nodejstutorial",
+  "version": "1.0.0",
+  "description": "A basic tutorial of node.js w.r.t. reading input arguments and user prompts like a CLI tool.",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekchandra007/nodejstutorial.git"
+  },
+  "keywords": [
+    "nodejstutorial",
+    "arguments",
+    "prompt",
+    "minimist"
+  ],
+  "author": "Vivek Chandra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivekchandra007/nodejstutorial/issues"
+  },
+  "homepage": "https://github.com/vivekchandra007/nodejstutorial#readme",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "prompt": "^1.0.0"
+  }
+}
